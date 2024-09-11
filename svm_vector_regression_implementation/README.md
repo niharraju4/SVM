@@ -1,4 +1,3 @@
-Certainly! Below is a detailed documentation for the provided code, including a table of contents and results.
 
 # Table of Contents
 1. [Introduction](#introduction)
@@ -206,6 +205,3 @@ The results include the R-squared score and mean absolute error for both the ini
 - **Making Predictions**: Predictions are made on the testing set using the best model.
 - **Evaluating the Best Model**: The R-squared score and mean absolute error for the best model are calculated and displayed.
 
-This documentation provides a comprehensive guide to performing regression analysis on the Tips dataset using SVR and hyperparameter tuning.
-
-**Author: Nihar Raju**
