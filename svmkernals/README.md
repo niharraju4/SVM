@@ -1,4 +1,3 @@
-Certainly! Below is a detailed documentation for the provided code, including a table of contents and results.
 
 # Table of Contents
 1. [Introduction](#introduction)
